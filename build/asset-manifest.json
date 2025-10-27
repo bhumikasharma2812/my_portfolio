@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bac635.css",
+    "main.js": "/static/js/main.cafb7cf8.js",
+    "static/media/srias.png": "/static/media/srias.396bb7113042061eb9d4.png",
+    "static/media/tony.png": "/static/media/tony.1db05fc969e4c10e3e6e.png",
+    "static/media/studio.png": "/static/media/studio.c5cf5b966b4c92b00dd3.png",
+    "static/media/cruciallearning.png": "/static/media/cruciallearning.52c59863e9e324bc4268.png",
+    "static/media/upagtech.png": "/static/media/upagtech.1fcb3821d97212471880.png",
+    "static/media/jaiveeru.png": "/static/media/jaiveeru.29c3d6afe36d284ad266.png",
+    "static/media/fivebehaviours.png": "/static/media/fivebehaviours.1093b20517353c8c6fce.png",
+    "static/media/global.png": "/static/media/global.66860f1c5bff8cbc976d.png",
+    "static/media/bannerImg.png": "/static/media/bannerImg.c7913d966de8816ea9e4.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/logo.png": "/static/media/logo.b0e8ff5091761f94cc47.png",
+    "index.html": "/index.html",
+    "main.29bac635.css.map": "/static/css/main.29bac635.css.map",
+    "main.cafb7cf8.js.map": "/static/js/main.cafb7cf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bac635.css",
+    "static/js/main.cafb7cf8.js"
+  ]
+}
