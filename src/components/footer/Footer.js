@@ -43,8 +43,8 @@ const Footer = () => {
     </li>
    <li>
   <a
-    href="/Bhumika-Portfolio.pdf"
-    download="Bhumika-Portfolio.pdf"
+    href="/Bhumika-sharma.pdf"
+    download="Bhumika-sharma.pdf"
     className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer"
   >
     Portfolio
