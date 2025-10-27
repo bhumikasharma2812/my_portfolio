@@ -1,11 +1,7 @@
 import React from "react";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import {
-  FaEnvelope,
-  FaPhoneAlt,
-  FaLinkedinIn,
-  FaReact,
-} from "react-icons/fa";
+import { FaEnvelope, FaPhoneAlt, FaLinkedinIn, FaReact, FaWordpress } from "react-icons/fa";
+
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
 const LeftBanner = () => {
@@ -70,26 +66,27 @@ const LeftBanner = () => {
           </div>
         </div>
 
-        {/* Right: Best Skills */}
-        <div>
-          <h2 className="text-base uppercase font-titleFont mb-4">
-            Best skill on
-          </h2>
-          <div className="flex gap-4">
-            <span className="bannerIcon">
-              <FaReact />
-            </span>
-            <span className="bannerIcon">
-              <SiNextdotjs />
-            </span>
-            <span className="bannerIcon">
-              <SiTailwindcss />
-            </span>
-            <span className="bannerIcon">
-              <SiFigma />
-            </span>
-          </div>
-        </div>
+       {/* Right: Best Skills */}
+<div>
+  <h2 className="text-base uppercase font-titleFont mb-4">
+    Best skill on
+  </h2>
+  <div className="flex gap-4">
+    <span className="bannerIcon">
+      <FaReact />
+    </span>
+    <span className="bannerIcon">
+      <SiTailwindcss />
+    </span>
+    <span className="bannerIcon">
+      <SiFigma />
+    </span>
+    <span className="bannerIcon">
+      <FaWordpress />
+    </span>
+  </div>
+</div>
+
       </div>
     </div>
   );
